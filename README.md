@@ -2,5 +2,5 @@
 
 ## References
 <ul>
-  <li><a href="https://jquery.com/">jQuery Office Site</a></li>
+  <li><a href="https://jquery.com/">jQuery.com</a></li>
 </ul>
