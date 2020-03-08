@@ -12,7 +12,7 @@
 
 ## 01. Effect - Animations
 <ul>
-    <li>fead effects
+    <li><h3>Fead Effects</h3>
     <ul>
       <li><a href="https://api.jquery.com/fadeOut/#fadeOut-duration-complete">fadeout()</a></li>
       <li><a href="https://api.jquery.com/fadeIn/#fadeIn-duration-complete">fadeIn()</a></li>
