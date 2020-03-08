@@ -11,7 +11,9 @@
 
 
 ## 01. Effect - Animations
-
+<ul>
+  <li><a href="https://api.jquery.com/fadeOut/#fadeOut-duration-complete">fadeout()</a></li>
+</ul>
 
 ## 02. Elmenet Selectors
 
