@@ -19,6 +19,7 @@
   <li><a href="https://www.javatpoint.com/jquery-ui-tutorial">javaPoint jQuery UI</a></li>
 </ul>
 
+## AJAX
 
 ## jQuery
 <ul>
@@ -27,6 +28,27 @@
   <li>jQuery means "write less do more".</li>
   <li>jQuery simplifies <strong>AJAX call</strong> and <strong>DOM manipulation.</strong></li>
 </ul>
+
+### [1. What is jQuery](https://www.javatpoint.com/what-is-jquery)
+<h3>jQuery Features</h3>
+<ul>
+  <li>HTML manipulation</li>
+  <li>DOM manipulation</li>
+  <li>DOM element selection</li>
+  <li>CSS manipulation</li>
+  <li>Effects and Animations</li>
+  <li>Utilities</li>
+  <li>AJAX</li>
+  <li>HTML event methods</li>
+  <li>JSON Parsing</li>
+  <li>Extensibility through plug-ins</li>
+ </ul>
+ 
+<a href="https://www.javatpoint.com/jquery-example">jQuery Example
+  <li><a href="https://api.jquery.com/ready/#ready-handler">.ready()</li>
+</a>
+
+
 
 
 ## jQuery UI
