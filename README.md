@@ -8,13 +8,13 @@
   <li><a href="https://www.tutorialspoint.com/ajax/index.htm">AJAX Tutorial</a></li>
 </ul>
 
-### 1. jQuery Tutorial Course
+### 1. jQuery Tutorial Sites
 <ul>
   <li><a href="https://www.w3schools.com/jquery/">W3school jQuery</a></li>
   <li><a href="https://www.javatpoint.com/jquery-tutorial">javatPoint jQuery</a></li>
 </ul>
 
-### 2. jQuery UI Tutorial Course
+### 2. jQuery UI Tutorial Sites
 <ul>
   <li><a href="https://www.javatpoint.com/jquery-ui-tutorial">javaPoint jQuery UI</a></li>
 </ul>
