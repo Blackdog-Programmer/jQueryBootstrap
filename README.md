@@ -22,10 +22,10 @@
 
 ## jQuery
 <ul>
-  <li>jQuery is a small and lightweight JavaScript library.</li>
+  <li>jQuery is a small and lightweight <strong>JavaScript library.</strong></li>
   <li>jQuery is cross-platform.</li>
   <li>jQuery means "write less do more".</li>
-  <li>jQuery simplifies AJAX call and DOM manipulation.</li>
+  <li>jQuery simplifies <strong>AJAX call</strong> and <strong>DOM manipulation.</strong></li>
 </ul>
 
 
