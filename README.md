@@ -1,6 +1,9 @@
 ## References
 <ul>
-  <li><https://dojotoolkit.org/>Dojo Tool Kit - javascript toolkit</a></li>
+  <li><a href="https://dojotoolkit.org/">Dojo Tool Kit - javascript toolkit</a></li>
+  <li><a href="https://mootools.net/">mooTools</a></li>
+  <li><a href="http://underscorejs.org/">UNDERSCORE.JS</a></li>
+  <li><a href="https://yuilibrary.com/">YUI Library<a></li>
   <li><a href="https://www.tutorialspoint.com/ajax/index.htm">AJAX Tutorial</a></li>
 </ul>
 
