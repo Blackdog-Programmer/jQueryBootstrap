@@ -19,23 +19,3 @@
     </ul>
   </li>
 </ul>
-
-### 1. 
-
-
-## jQuery UI
-
-
-## 03. DOM I - Inserting, Replcaing and Removing Elements
-
-
-## 04. DOM II - Changing Element Data and CSS
-
-
-## 05. Event I - Handling Mouse Events & Keyboard Events
-
-
-## 06. Evnets II - Forms
-
-
-## 08. Ajaz with jQuery
