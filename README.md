@@ -22,11 +22,10 @@
 
 ## jQuery
 <ul>
-  <li><a href="https://jquery.com/">jQuery.com</a>
-    <ul>
-      <a href="https://api.jquery.com/">jQuery API Documentation</a></li>
-    </ul>
-  </li>
+  <li>jQuery is a small and lightweight JavaScript library.</li>
+  <li>jQuery is cross-platform.</li>
+  <li>jQuery means "write less do more".</li>
+  <li>jQuery simplifies AJAX call and DOM manipulation.</li>
 </ul>
 
 
