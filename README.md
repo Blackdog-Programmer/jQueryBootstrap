@@ -31,7 +31,7 @@
 
 ### [1. What is jQuery](https://www.javatpoint.com/what-is-jquery)
 <h3>jQuery Features</h3>
-<ul>
+<ol>
   <li>HTML manipulation</li>
   <li>DOM manipulation</li>
   <li>DOM element selection</li>
@@ -42,7 +42,7 @@
   <li>HTML event methods</li>
   <li>JSON Parsing</li>
   <li>Extensibility through plug-ins</li>
- </ul>
+ </ol>
  
 <a href="https://www.javatpoint.com/jquery-example">jQuery Example
   <li><a href="https://api.jquery.com/ready/#ready-handler">.ready()</li>
