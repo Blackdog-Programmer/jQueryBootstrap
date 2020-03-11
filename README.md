@@ -1,6 +1,17 @@
-## Articles
+## References
 
-## 00. References
+### 1. jQuery Tutorial Course
+<ul>
+  <li><a href="https://www.w3schools.com/jquery/">W3school jQuery</a></li>
+  <li><a href="https://www.javatpoint.com/jquery-tutorial">javatPoint jQuery</a></li>
+<ul>
+
+### 2. jQuery UI Tutorial Course
+<ul>
+  <li><a href="https://www.javatpoint.com/jquery-ui-tutorial">javaPoint jQuery UI</a></li>
+</ul>
+
+## jQuery
 <ul>
   <li><a href="https://jquery.com/">jQuery.com</a>
     <ul>
@@ -9,19 +20,10 @@
   </li>
 </ul>
 
-
-## 01. Effect - Animations
-<ul>
-    <li><h4>Fead Effects</h4>
-    <ul>
-      <li><a href="https://api.jquery.com/fadeOut/#fadeOut-duration-complete">fadeout()</a></li>
-      <li><a href="https://api.jquery.com/fadeIn/#fadeIn-duration-complete">fadeIn()</a></li>
-      <li><a href="https://api.jquery.com/fadeTo/#fadeTo-duration-opacity-complete">fadeTo()</a></li>
-    </ul>
-</ul>
+### 1. 
 
 
-## 02. Elmenet Selectors
+## jQuery UI
 
 
 ## 03. DOM I - Inserting, Replcaing and Removing Elements
