@@ -4,6 +4,7 @@
   <li><a href="https://mootools.net/">mooTools</a></li>
   <li><a href="http://underscorejs.org/">UNDERSCORE.JS</a></li>
   <li><a href="https://yuilibrary.com/">YUI Library<a></li>
+  <li><a href="https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm#demos/jqxgrid/paging.htm">jQWidgets</a></li>
   <li><a href="https://www.tutorialspoint.com/ajax/index.htm">AJAX Tutorial</a></li>
 </ul>
 
