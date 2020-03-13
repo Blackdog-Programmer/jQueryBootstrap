@@ -47,8 +47,7 @@
 <a href="https://www.javatpoint.com/jquery-example">jQuery Example
   <li><a href="https://api.jquery.com/ready/#ready-handler">.ready() - Specify a function to execute when the DOM is fully loaded.</li>
 </a>
-
-
+<a href="https://www.javatpoint.com/jquery-selectors">jQuery Selectors</a>
 
 
 ## jQuery UI
