@@ -30,7 +30,7 @@
 </ul>
 
 ### [1. What is jQuery](https://www.javatpoint.com/what-is-jquery)
-<h3>jQuery Features</h3>
+<h4>jQuery Features</h4>
 <ol>
   <li>HTML manipulation</li>
   <li>DOM manipulation</li>
