@@ -53,6 +53,15 @@
   <li><a href="https://www.javatpoint.com/jquery-selectors">jQuery Selectors</a></li>
 </ul>
 
+### 2. jQuery Effects
 
+
+### 3. jQuery HTML/CSS
+
+
+### 4. jQuery Forms
+
+
+### 5. jQuery Events
 
 ## jQuery UI
