@@ -53,7 +53,7 @@
   <li><a href="https://www.javatpoint.com/jquery-selectors">jQuery Selectors</a></li>
 </ul>
 
-### 2. jQuery Effects
+### [2. jQuery Effects](https://www.javatpoint.com/jquery-effects)
 
 
 ### 3. jQuery HTML/CSS
