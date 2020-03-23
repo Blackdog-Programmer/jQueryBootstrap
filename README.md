@@ -19,6 +19,12 @@
 ### 0.1. AJAX Tutorial
 <ul>
   <li><a href="https://www.javatpoint.com/ajax-tutorial">What is AJAX?</a></li>
+  <li><a href="https://www.javatpoint.com/understanding-synchronous-vs-asynchronous">Asynchronous</a>
+    <h4>Synchronous (Classic Web-Application Model)</h4>
+    <img src="https://static.javatpoint.com/images/ajax/synchronous.gif" alt="Synchronous Web Application Process Image">
+    <h4>Asynchronous (AJAX Web-Application Model)</h4>
+    <img src="https://static.javatpoint.com/images/ajax/asynchronous.gif" alt="Asynchronous Web Application Process Image">
+  </li>
 
 ### 0.2. Java AJAX
 
