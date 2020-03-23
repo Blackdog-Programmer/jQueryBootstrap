@@ -8,6 +8,24 @@
   <li><a href="https://www.tutorialspoint.com/ajax/index.htm">AJAX Tutorial</a></li>
 </ul>
 
+## 0. AJAX(Asynchronous JavaScript and XML)
+<p>
+  AJAX is an acronym for <strong>Asynchronous JavaScript and XML.</strong> It is a group of inter-related technologies like JavaScript, DOM, XML, HTML/XHTML, CSS, XMLHttpRequest etc. 
+</p>
+<p>
+  AJAX allows you to send only important information to the server not the entire page. So only valuable data from the client side is routed to the server side. It makes your application interactive and faster.
+</p>
+
+### 0.1. AJAX Tutorial
+<ul>
+  <li><a href="https://www.javatpoint.com/ajax-tutorial">What is AJAX?</a></li>
+
+### 0.2. Java AJAX
+
+### 0.3. JSON AJAX
+
+### AJAX Interview Questions
+
 ### 1. jQuery Tutorial Sites
 <ul>
   <li><a href="https://www.w3schools.com/jquery/">W3school jQuery</a></li>
@@ -19,7 +37,7 @@
   <li><a href="https://www.javatpoint.com/jquery-ui-tutorial">javaPoint jQuery UI</a></li>
 </ul>
 
-## AJAX
+
 
 ## jQuery
 <ul>
