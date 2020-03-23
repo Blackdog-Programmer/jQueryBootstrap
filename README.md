@@ -13,7 +13,7 @@
   AJAX is an acronym for <strong>Asynchronous JavaScript and XML.</strong> It is a group of inter-related technologies like JavaScript, DOM, XML, HTML/XHTML, CSS, XMLHttpRequest etc. 
 </p>
 <p>
-  AJAX allows you to send only important information to the server not the entire page. So only valuable data from the client side is routed to the server side. It makes your application interactive and faster.
+  AJAX allows you to send only important information to the server not the entire page. So <strong>only valuable data from the client side is routed to the server side.</strong> It makes your application <strong>interactive and faster.</strong>
 </p>
 
 ### 0.1. AJAX Tutorial
