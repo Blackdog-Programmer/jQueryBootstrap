@@ -25,11 +25,13 @@
     <h4>Asynchronous (AJAX Web-Application Model)</h4>
     <img src="https://static.javatpoint.com/images/ajax/asynchronous.gif" alt="Asynchronous Web Application Process Image">
   </li>
+  <li><a href="https://www.javatpoint.com/ajax-technologies">AJAX Technologies</a></li>
+  <li><a href="https://www.javatpoint.com/understanding-xmlhttprequest">XMLHttpRequest</a></li>
 </ul>
 
 ### 0.2. Java AJAX
 
-### 0.3. JSON AJAX
+### 0.3. JSON(Javascript Object Notation) AJAX
 
 ### AJAX Interview Questions
 
