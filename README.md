@@ -81,7 +81,9 @@
 </ul>
 
 ### [2. jQuery Effects](https://www.javatpoint.com/jquery-effects)
-
+<ul>
+  <li><a href="https://api.jquery.com/prop/">.prop()</a></li>
+</ul>
 
 ### 3. jQuery HTML/CSS
 
