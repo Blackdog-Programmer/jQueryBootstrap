@@ -82,6 +82,7 @@
 
 ### [2. jQuery Effects](https://www.javatpoint.com/jquery-effects)
 <ul>
+  <li><img src="https://www.javatpoint.com/jquerypages/images/jquery-effects.png", alt="jQuery Effect Categories"></li>
   <li><a href="https://api.jquery.com/prop/">.prop()</a></li>
 </ul>
 
