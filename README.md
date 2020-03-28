@@ -41,11 +41,11 @@
   <li><a href="https://www.javatpoint.com/jquery-tutorial">javatPoint jQuery</a></li>
 </ul>
 
+
 ### 2. jQuery UI Tutorial Sites
 <ul>
   <li><a href="https://www.javatpoint.com/jquery-ui-tutorial">javaPoint jQuery UI</a></li>
 </ul>
-
 
 
 ## jQuery
@@ -82,7 +82,7 @@
 
 ### [2. jQuery Effects](https://www.javatpoint.com/jquery-effects)
 <ul>
-  <li><img src="https://www.javatpoint.com/jquerypages/images/jquery-effects.png", alt="jQuery Effect Categories"></li>
+  <img src="https://www.javatpoint.com/jquerypages/images/jquery-effects.png", alt="jQuery Effect Categories">
   <li><a href="https://api.jquery.com/prop/">.prop()</a></li>
 </ul>
 
