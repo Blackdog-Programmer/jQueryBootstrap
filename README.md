@@ -59,18 +59,18 @@
 
 ### [1. What is jQuery](https://www.javatpoint.com/what-is-jquery)
 <h4>jQuery Features</h4>
-<ol>
-  <li>HTML manipulation</li>
-  <li>DOM manipulation</li>
-  <li>DOM element selection</li>
-  <li>CSS manipulation</li>
-  <li>Effects and Animations</li>
-  <li>Utilities</li>
-  <li>AJAX</li>
-  <li>HTML event methods</li>
-  <li>JSON Parsing</li>
-  <li>Extensibility through plug-ins</li>
- </ol>
+<p>
+  1. HTML manipulation
+  2. DOM manipulation
+  3. DOM element selection
+  4. CSS manipulation
+  5. Effects and Animations
+  6. Utilities
+  7. AJAX
+  8. HTML event methods
+  9. JSON Parsing
+  10. Extensibility through plug-ins
+</p>
 
 <ul>
   <li><a href="https://www.javatpoint.com/jquery-example">jQuery Example</a>
@@ -79,7 +79,7 @@
     </ul>
   </li>
   <li><a href="https://www.javatpoint.com/jquery-selectors">jQuery Selectors</a></li>
-  <li><a herf="https://love2dev.com/blog/web-performance-optimization-when-possible-use-native-selectors-instead-of-jquery/">Web Performance with jQuery selectors</a></li>
+  <li><a href="https://love2dev.com/blog/web-performance-optimization-when-possible-use-native-selectors-instead-of-jquery/">Web Performance with jQuery selectors</a></li>
 </ul>
 
 ### [2. jQuery Effects](https://www.javatpoint.com/jquery-effects)
