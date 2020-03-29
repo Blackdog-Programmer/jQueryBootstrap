@@ -36,20 +36,8 @@
 
 ### AJAX Interview Questions
 
-### 1. jQuery Tutorial Sites
-<ul>
-  <li><a href="https://www.w3schools.com/jquery/">W3school jQuery</a></li>
-  <li><a href="https://www.javatpoint.com/jquery-tutorial">javatPoint jQuery</a></li>
-</ul>
 
-
-### 2. jQuery UI Tutorial Sites
-<ul>
-  <li><a href="https://www.javatpoint.com/jquery-ui-tutorial">javaPoint jQuery UI</a></li>
-</ul>
-
-
-## jQuery
+## [1. jQuery](https://jquery.com/)
 <ul>
   <li>jQuery is a small and lightweight <strong>JavaScript library.</strong></li>
   <li>jQuery is cross-platform.</li>
@@ -122,11 +110,44 @@
 
 ### 3. jQuery HTML/CSS
 <ul>
+  <li><a href="">html()</a></li>
+  <li><a href="">text()</a></li>
+  <li><a href="">val()</a></li>
+  <li><a href="">css()</a></li>
+  <li><a href="">before()</a></li>
+  <li><a href="">prepend()</a></li>
+  <li><a href="">after()</a></li>
+  <li><a href="">insertAfter()</a></li>
+  <li><a href="">append()</a></li>
+  <li><a href="">appendTo()</a></li>
+  <li><a href="">clone()</a></li>
+  <li><a href="">remove()</a></li>
+  <li><a href="">empty()</a></li>
+  <li><a href="">detach()</a></li>
+  <li><a href="">scrollTop()</a></li>
+  <li><a href="">attr()</a></li>
   <li><a href="https://api.jquery.com/prop/">.prop()</a></li>
+  <li><a href="">offset()</a></li>
+  <li><a href="">position()</a></li>
+  <li><a href="">addClass()</a></li>
+  <li><a href="">hasClass()</a></li>
+  <li><a href="">width()</a></li>
+  <li><a href="">height()</a></li>
+  <li><a href="">innerWidth()</a></li>
+  <li><a href="">innerHeight()</a></li>
+  <li><a href="">outerWidth()</a></li>
+  <li><a href="">outerHeight()</a></li>
+  <li><a href="">wrap()</a></li>
+  <li><a href="">wrapInner()</a></li>
+  <li><a href="">wrapAll()</a></li>
+  <li><a href="">unwrap()</a></li>
 </ul>
 
 ### 4. jQuery Forms
-
+<ul>
+  <li><a href="">serialize()</a></li>
+  <li><a href="">serializeArray()</a></li>
+</ul>
 
 ### [5. jQuery Events](https://api.jquery.com/category/events/)
 <li><a href="https://www.javatpoint.com/jquery-bind">jQuery bind() Events</a>
