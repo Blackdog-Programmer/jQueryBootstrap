@@ -110,9 +110,9 @@
 
 ### 3. jQuery HTML/CSS
 <ul>
-  <li><a href="">html()</a></li>
-  <li><a href="">text()</a></li>
-  <li><a href="">val()</a></li>
+  <li><a href="https://www.javatpoint.com/jquery-html">html()</a></li>
+  <li><a href="https://www.javatpoint.com/jquery-text">text()</a></li>
+  <li><a href="https://www.javatpoint.com/jquery-val">val()</a></li>
   <li><a href="">css()</a></li>
   <li><a href="">before()</a></li>
   <li><a href="">prepend()</a></li>
@@ -125,7 +125,7 @@
   <li><a href="">empty()</a></li>
   <li><a href="">detach()</a></li>
   <li><a href="">scrollTop()</a></li>
-  <li><a href="">attr()</a></li>
+  <li><a href="https://www.javatpoint.com/jquery-attr">attr()</a></li>
   <li><a href="https://api.jquery.com/prop/">.prop()</a></li>
   <li><a href="">offset()</a></li>
   <li><a href="">position()</a></li>
@@ -170,9 +170,9 @@
 
 <h4>Keyboard Events</h4>
 <ul>
-  <li><a href="">.keyup()</a></li>
-  <li><a href="">.keydown()</a></li>
-  <li><a href="">.keypress()</a></li>
+  <li><a href="https://www.javatpoint.com/jquery-keyup">.keyup()</a></li>
+  <li><a href="https://www.javatpoint.com/jquery-keydown">.keydown()</a></li>
+  <li><a href="https://www.javatpoint.com/jquery-keypress">.keypress()</a></li>
 </ul>
 
 
@@ -187,10 +187,11 @@
 
 <h4>Documents/Window Events</h4>
 <ul>
-  <li><a href="">.load()</a></li>
+  <li><a href="https://www.javatpoint.com/jquery-load">.load()</a></li>
   <li><a href="">.unload()</a></li>
   <li><a href="">.scroll()</a></li>
   <li><a href="">.resize()</a></li>
+  <li><a href="https://www.javatpoint.com/jquery-delegate">.delegate()</a></li>
 </ul>
 
 
