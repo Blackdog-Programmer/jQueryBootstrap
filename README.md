@@ -59,18 +59,18 @@
 
 ### [1. What is jQuery](https://www.javatpoint.com/what-is-jquery)
 <h4>jQuery Features</h4>
-<p>
-  1. HTML manipulation
-  2. DOM manipulation
-  3. DOM element selection
-  4. CSS manipulation
-  5. Effects and Animations
-  6. Utilities
-  7. AJAX
-  8. HTML event methods
-  9. JSON Parsing
-  10. Extensibility through plug-ins
-</p>
+<ol>
+  <li>HTML manipulation</li>
+  <li>DOM manipulation</li>
+  <li>DOM element selection</li>
+  <li>CSS manipulation</li>
+  <li>Effects and Animations</li>
+  <li>Utilities</li>
+  <li>AJAX</li>
+  <li>HTML event methods</li>
+  <li>JSON Parsing</li>
+  <li>Extensibility through plug-ins</li>
+</ol>
 
 <ul>
   <li><a href="https://www.javatpoint.com/jquery-example">jQuery Example</a>
