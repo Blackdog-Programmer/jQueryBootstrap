@@ -133,35 +133,35 @@
 
 <h4>Mouse Events</h4>
 <ul>
-  <li><a href="">.click()</a><li>
-  <li><a href="">.dblclick()</a><li>
-  <li><a href="">.mouseenter()</a><li>
-  <li><a href="">.mouseleave()</a><li>
+  <li><a href="">.click()</a></li>
+  <li><a href="">.dblclick()</a></li>
+  <li><a href="">.mouseenter()</a></li>
+  <li><a href="">.mouseleave()</a></li>
 </ul>
 
 <h4>Keyboard Events</h4>
 <ul>
-  <li><a href="">.keyup()</a><li>
-  <li><a href="">.keydown()</a><li>
-  <li><a href="">.keypress()</a><li>
+  <li><a href="">.keyup()</a></li>
+  <li><a href="">.keydown()</a></li>
+  <li><a href="">.keypress()</a></li>
 </ul>
 
 
 <h4>Form Events</h4>
 <ul>
-  <li><a href="">.submit()</a><li>
-  <li><a href="">.change()</a><li>
-  <li><a href="">.blur()</a><li>
-  <li><a href="">.focus()</a><li>
+  <li><a href="">.submit()</a></li>
+  <li><a href="">.change()</a></li>
+  <li><a href="">.blur()</a></li>
+  <li><a href="">.focus()</a></li>
 </ul>
 
 
 <h4>Documents/Window Events</h4>
 <ul>
-  <li><a href="">.load()</a><li>
-  <li><a href="">.unload()</a><li>
-  <li><a href="">.scroll()</a><li>
-  <li><a href="">.resize()</a><li>
+  <li><a href="">.load()</a></li>
+  <li><a href="">.unload()</a></li>
+  <li><a href="">.scroll()</a></li>
+  <li><a href="">.resize()</a></li>
 </ul>
 
 
