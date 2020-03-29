@@ -102,7 +102,7 @@
   <li><a href="https://www.javatpoint.com/jquery-fadein">.fadeIn()</a></li>
   <li><a href="https://www.javatpoint.com/jquery-fadeout">.fadeOut()</a></li>
   <li><a href="https://www.javatpoint.com/jquery-fadetoggle">.fadeToggle()</a></li>
-  <li><a herf="https://www.javatpoint.com/jquery-fadeto">.fadeTo()</a></li>
+  <li><a href="https://www.javatpoint.com/jquery-fadeto">.fadeTo()</a></li>
 </ul>
 
 <h4>Sliding Effects</h4>
