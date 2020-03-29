@@ -132,9 +132,19 @@
   <strong>Note: A term "fires" is generally used with events. For example: The click event fires in the moment you press a key.</strong>
 </p>
 
+<h4>jQuery bind() Events</h4>
+<li><a href="https://www.javatpoint.com/jquery-bind">.bind()</a>
+  <ul>
+    <li>Event: It is a mandatory parameter. It specifies one or more events to attach to the elements.</li>
+    <li>Data: It is an optional parameter. It specifies additional data to pass along to the function.</li>
+    <li>Function: It is a mandatory parameter. It executes the function to run when the event occurs.</li>
+    <li>Map: It specifies an event map which contains one or more events or functions attached to the element.</li>
+  </ul>
+</li>
+
 <h4>Mouse Events</h4>
 <ul>
-  <li><a href="">.click()</a></li>
+  <li><a href="https://www.javatpoint.com/jquery-click">.click()</a></li>
   <li><a href="">.dblclick()</a></li>
   <li><a href="">.mouseenter()</a></li>
   <li><a href="">.mouseleave()</a></li>
