@@ -6,6 +6,7 @@
   <li><a href="https://yuilibrary.com/">YUI Library<a></li>
   <li><a href="https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm#demos/jqxgrid/paging.htm">jQWidgets</a></li>
   <li><a href="https://www.tutorialspoint.com/ajax/index.htm">AJAX Tutorial</a></li>
+  <li><a href="https://www.javatpoint.com/jquery-interview-questions">TOP 35 jQuery Interview Questions</a></li>
 </ul>
 
 ## 0. AJAX(Asynchronous JavaScript and XML)
