@@ -83,13 +83,19 @@
 ### [2. jQuery Effects](https://www.javatpoint.com/jquery-effects)
 <ul>
   <img src="https://www.javatpoint.com/jquerypages/images/jquery-effects.png", alt="jQuery Effect Categories">
+  <li><a href="https://api.jqueryui.com/easings/">Easings</a></li>
+  <li><a href="https://easings.net/">Easing Fuctions Cheat Sheet</a></li>
   <li><a href="https://www.javatpoint.com/jquery-hide">.hide()</a></li>
   <li><a href="https://www.javatpoint.com/jquery-show">.show()</a></li>
-  <li><a href="https://api.jquery.com/prop/">.prop()</a></li>
+  <li><a href="https://www.javatpoint.com/jquery-toggle">.toggle()</a></li>
+  <li><a href="https://www.javatpoint.com/jquery-fadein">.fadeIn()</a></li>
+  <li><a href="https://www.javatpoint.com/jquery-fadeout">.fadeOut()</a></li>
 </ul>
 
 ### 3. jQuery HTML/CSS
-
+<ul>
+  <li><a href="https://api.jquery.com/prop/">.prop()</a></li>
+</ul>
 
 ### 4. jQuery Forms
 
