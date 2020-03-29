@@ -90,6 +90,15 @@
   <li><a href="https://www.javatpoint.com/jquery-toggle">.toggle()</a></li>
   <li><a href="https://www.javatpoint.com/jquery-fadein">.fadeIn()</a></li>
   <li><a href="https://www.javatpoint.com/jquery-fadeout">.fadeOut()</a></li>
+  <li><a href="https://www.javatpoint.com/jquery-fadetoggle">.fadetoggle()</a></li>
+  <li><a herf="https://www.javatpoint.com/jquery-fadeto">.fadeTo()</a></li>
+  <li><a href="https://www.javatpoint.com/jquery-slidedown">.slideDown()</a></li>
+  <li><a href="https://www.javatpoint.com/jquery-slideup">.slideUp()</a></li>
+  <li><a href="https://www.javatpoint.com/jquery-slidedown">.slideDown()</a></li>
+  <li><a href="https://www.javatpoint.com/jquery-slidetoggle">.slideToggle()</a></li>
+  <li><a href="https://www.javatpoint.com/jquery-animate">.animate()</a></li>
+  <li><a href="https://www.javatpoint.com/jquery-slidedown">.slideDown()</a></li>
+  <li><a href="https://www.javatpoint.com/jquery-delay">.delay()</a></li>
 </ul>
 
 ### 3. jQuery HTML/CSS
