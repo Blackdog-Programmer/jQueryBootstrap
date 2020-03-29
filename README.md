@@ -60,16 +60,16 @@
 ### [1. What is jQuery](https://www.javatpoint.com/what-is-jquery)
 <h4>jQuery Features</h4>
 <ol>
-  <li>HTML manipulation</li>
-  <li>DOM manipulation</li>
-  <li>DOM element selection</li>
-  <li>CSS manipulation</li>
-  <li>Effects and Animations</li>
-  <li>Utilities</li>
-  <li>AJAX</li>
-  <li>HTML event methods</li>
-  <li>JSON Parsing</li>
-  <li>Extensibility through plug-ins</li>
+  <li><strong>HTML</strong> manipulation</li>
+  <li><strong>DOM</strong> manipulation</li>
+  <li>DOM element <strong>selection</strong></li>
+  <li><strong>CSS</strong> manipulation</li>
+  <li><strong>Effects</strong> and <strong>Animations</strong></li>
+  <li><strong>Utilities</strong></li>
+  <li><strong>AJAX</strong></li>
+  <li>HTML <strong>event</strong> methods</li>
+  <li>><strong>JSON</strong> Parsing</li>
+  <li>Extensibility through <strong>plug-ins</strong></li>
 </ol>
 
 <ul>
