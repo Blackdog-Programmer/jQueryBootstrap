@@ -134,10 +134,10 @@
 
 <li><a href="https://www.javatpoint.com/jquery-bind">jQuery bind() Events</a>
   <ul>
-    <li>Event: It is a mandatory parameter. It specifies one or more events to attach to the elements.</li>
-    <li>Data: It is an optional parameter. It specifies additional data to pass along to the function.</li>
-    <li>Function: It is a mandatory parameter. It executes the function to run when the event occurs.</li>
-    <li>Map: It specifies an event map which contains one or more events or functions attached to the element.</li>
+    <li><strong>Event:</strong> It is a mandatory parameter. It specifies one or more events to attach to the elements.</li>
+    <li><strong>Data:</strong> It is an optional parameter. It specifies additional data to pass along to the function.</li>
+    <li><strong>Function:</strong> It is a mandatory parameter. It executes the function to run when the event occurs.</li>
+    <li><strong>Map:</strong> It specifies an event map which contains one or more events or functions attached to the element.</li>
   </ul>
 </li>
 
