@@ -81,23 +81,40 @@
 </ul>
 
 ### [2. jQuery Effects](https://www.javatpoint.com/jquery-effects)
-<ul>
+<kbd>
   <img src="https://www.javatpoint.com/jquerypages/images/jquery-effects.png", alt="jQuery Effect Categories">
+</kbd>
+
+<ul>
   <li><a href="https://api.jqueryui.com/easings/">Easings</a></li>
   <li><a href="https://easings.net/">Easing Fuctions Cheat Sheet</a></li>
+</ul>
+
+<h4>Display Effect</h4>
+<ul>
   <li><a href="https://www.javatpoint.com/jquery-hide">.hide()</a></li>
   <li><a href="https://www.javatpoint.com/jquery-show">.show()</a></li>
-  <li><a href="https://www.javatpoint.com/jquery-toggle">.toggle()</a></li>
+  <li><a href="https://www.javatpoint.com/jquery-toggle">.toggle()</a></li>  
+</ul>
+
+<h4>Fading Effects</h4>
+<ul>
   <li><a href="https://www.javatpoint.com/jquery-fadein">.fadeIn()</a></li>
   <li><a href="https://www.javatpoint.com/jquery-fadeout">.fadeOut()</a></li>
-  <li><a href="https://www.javatpoint.com/jquery-fadetoggle">.fadetoggle()</a></li>
+  <li><a href="https://www.javatpoint.com/jquery-fadetoggle">.fadeToggle()</a></li>
   <li><a herf="https://www.javatpoint.com/jquery-fadeto">.fadeTo()</a></li>
+</ul>
+
+<h4>Sliding Effects</h4>
+<ul>
   <li><a href="https://www.javatpoint.com/jquery-slidedown">.slideDown()</a></li>
   <li><a href="https://www.javatpoint.com/jquery-slideup">.slideUp()</a></li>
-  <li><a href="https://www.javatpoint.com/jquery-slidedown">.slideDown()</a></li>
   <li><a href="https://www.javatpoint.com/jquery-slidetoggle">.slideToggle()</a></li>
+</ul>
+
+<h4>Other Effects</h4>
+<ul>  
   <li><a href="https://www.javatpoint.com/jquery-animate">.animate()</a></li>
-  <li><a href="https://www.javatpoint.com/jquery-slidedown">.slideDown()</a></li>
   <li><a href="https://www.javatpoint.com/jquery-delay">.delay()</a></li>
 </ul>
 
