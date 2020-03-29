@@ -79,6 +79,7 @@
     </ul>
   </li>
   <li><a href="https://www.javatpoint.com/jquery-selectors">jQuery Selectors</a></li>
+  <li><a herf="https://love2dev.com/blog/web-performance-optimization-when-possible-use-native-selectors-instead-of-jquery/">Web Performance with jQuery selectors</a></li>
 </ul>
 
 ### [2. jQuery Effects](https://www.javatpoint.com/jquery-effects)
@@ -128,6 +129,8 @@
 
 
 ### [5. jQuery Events](https://www.javatpoint.com/jquery-events)
+<a href="https://stackoverflow.com/questions/12481439/jquery-this-keyword">jQuery $(this) keyword</a></li>
+
 <p>
   <strong>Note: A term "fires" is generally used with events. For example: The click event fires in the moment you press a key.</strong>
 </p>
