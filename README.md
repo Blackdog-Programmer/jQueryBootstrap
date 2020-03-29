@@ -127,6 +127,42 @@
 
 
 ### [5. jQuery Events](https://www.javatpoint.com/jquery-events)
+<p>
+  <strong>Note: A term "fires" is generally used with events. For example: The click event fires in the moment you press a key.</strong>
+</p>
+
+<h4>Mouse Events</h4>
+<ul>
+  <li><a href="">.click()</a><li>
+  <li><a href="">.dblclick()</a><li>
+  <li><a href="">.mouseenter()</a><li>
+  <li><a href="">.mouseleave()</a><li>
+</ul>
+
+<h4>Keyboard Events</h4>
+<ul>
+  <li><a href="">.keyup()</a><li>
+  <li><a href="">.keydown()</a><li>
+  <li><a href="">.keypress()</a><li>
+</ul>
+
+
+<h4>Form Events</h4>
+<ul>
+  <li><a href="">.submit()</a><li>
+  <li><a href="">.change()</a><li>
+  <li><a href="">.blur()</a><li>
+  <li><a href="">.focus()</a><li>
+</ul>
+
+
+<h4>Documents/Window Events</h4>
+<ul>
+  <li><a href="">.load()</a><li>
+  <li><a href="">.unload()</a><li>
+  <li><a href="">.scroll()</a><li>
+  <li><a href="">.resize()</a><li>
+</ul>
 
 
 ### [6. jQuery RegExp Rexpression](https://www.w3schools.com/jsref/jsref_obj_regexp.asp)
