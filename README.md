@@ -132,8 +132,7 @@
   <strong>Note: A term "fires" is generally used with events. For example: The click event fires in the moment you press a key.</strong>
 </p>
 
-<h4>jQuery bind() Events</h4>
-<li><a href="https://www.javatpoint.com/jquery-bind">.bind()</a>
+<li><a href="https://www.javatpoint.com/jquery-bind">jQuery bind() Events</a>
   <ul>
     <li>Event: It is a mandatory parameter. It specifies one or more events to attach to the elements.</li>
     <li>Data: It is an optional parameter. It specifies additional data to pass along to the function.</li>
