@@ -128,20 +128,14 @@
 ### 4. jQuery Forms
 
 
-### [5. jQuery Events](https://www.javatpoint.com/jquery-events)
-<a href="https://stackoverflow.com/questions/12481439/jquery-this-keyword">jQuery $(this) keyword</a></li>
-<a href="https://api.jquery.com/category/events/">jQuery Events</a></li>
-
-<p>
-  <strong>Note: A term "fires" is generally used with events. For example: The click event fires in the moment you press a key.</strong>
-</p>
-
+### [5. jQuery Events](https://api.jquery.com/category/events/)
 <li><a href="https://www.javatpoint.com/jquery-bind">jQuery bind() Events</a>
   <ul>
     <li><strong>Event:</strong> It is a mandatory parameter. It specifies one or more events to attach to the elements.</li>
     <li><strong>Data:</strong> It is an optional parameter. It specifies additional data to pass along to the function.</li>
     <li><strong>Function:</strong> It is a mandatory parameter. It executes the function to run when the event occurs.</li>
     <li><strong>Map:</strong> It specifies an event map which contains one or more events or functions attached to the element.</li>
+    <li><a href="https://stackoverflow.com/questions/12481439/jquery-this-keyword">jQuery $(this) keyword</a></li>
   </ul>
 </li>
 
