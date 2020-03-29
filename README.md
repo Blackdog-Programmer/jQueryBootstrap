@@ -130,6 +130,7 @@
 
 ### [5. jQuery Events](https://www.javatpoint.com/jquery-events)
 <a href="https://stackoverflow.com/questions/12481439/jquery-this-keyword">jQuery $(this) keyword</a></li>
+<a href="https://api.jquery.com/category/events/">jQuery Events</a></li>
 
 <p>
   <strong>Note: A term "fires" is generally used with events. For example: The click event fires in the moment you press a key.</strong>
