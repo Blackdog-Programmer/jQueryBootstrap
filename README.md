@@ -113,7 +113,7 @@
   <li><a href="https://www.javatpoint.com/jquery-html">html()</a></li>
   <li><a href="https://www.javatpoint.com/jquery-text">text()</a></li>
   <li><a href="https://www.javatpoint.com/jquery-val">val()</a></li>
-  <li><a href="">css()</a></li>
+  <li><a href="https://www.javatpoint.com/jquery-css">css()</a></li>
   <li><a href="">before()</a></li>
   <li><a href="">prepend()</a></li>
   <li><a href="">after()</a></li>
