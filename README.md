@@ -198,3 +198,7 @@
 ### [6. jQuery RegExp Rexpression](https://www.w3schools.com/jsref/jsref_obj_regexp.asp)
 
 ### Stack Learned APIs
+
+<ul>
+  <li><a href="https://api.jquery.com/event.preventDefault/">event.preventDefault()</a></li>
+</ul>
